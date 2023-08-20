@@ -1,1 +1,3 @@
-# SnackWaterGun-Game
+# JustCalculateMe
+It is calculator where we can calculate a simple type of calculations and simple problems as well...
+Using HTML, CSS and JavaScript
