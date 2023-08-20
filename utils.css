@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.row input{
+    margin: 4px;
+    padding: 30px;
+    width: 273px;
+    border-radius: 6px;
+}
+/* .container{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+} */
+/* .container-item{
+    margin: 3px;
+} */
+/* .button{
+    padding: 7%;
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 12%;
+    cursor: pointer;
+} */
